@@ -1,3 +1,6 @@
-for (int i=0; i<=10; i++){
-concole.log("Testing 10 times")
-}
+public class Hello {
+    public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.printIn("Hello, World");
+    }
+ }
